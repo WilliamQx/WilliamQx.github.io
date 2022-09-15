@@ -12,7 +12,7 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "/logo.svg",
+  logo: "/logo.jpg",
 
   repo: "WilliamQx/WilliamQx.github.io",
 
@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar: sidebar,
 
-  footer: "默认页脚",
+  footer: "WilliamQx&<a href='https://bornforthis.cn'>AI悦创</a>",
 
   displayFooter: true,
 
