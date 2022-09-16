@@ -2,11 +2,11 @@
 home: true
 layout: Blog
 icon: home
-title: 博客主页
+title: 武林秘籍
 heroImage: /logo.jpg
 heroText: WilliamQX Blog
 heroFullScreen: true
-tagline: 我是卷王，加油学习～
+tagline: Hello my friend
 footer: WilliamQx&<a href='https://bornforthis.cn'>AI悦创</a>
 ---
 
